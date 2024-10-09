@@ -10,6 +10,9 @@ preguntas = {
         ("¿Cuánto es 12 / 4?", "3"),
         ("¿Cuál es la raíz cuadrada de 9?", "3"),
         ("¿Cuánto es 23 - 10?", "13"),
+        ("¿Cúanto es 2*30?", "60"),
+        ("¿Cuánto es 7*8?", "56"),
+        ("¿ Cuanto es 9*9", "81"),
     ],
     "lenguaje": [
         ("¿Quién escribió 'Don Quijote de la Mancha'?", ["A. Cervantes", "B. Shakespeare", "C. Borges"], "A. Cervantes"),
@@ -20,6 +23,7 @@ preguntas = {
         ("¿Quién es conocido como el padre de la filosofía?", ["A. Sócrates", "B. Platón", "C. Aristóteles"], "A. Sócrates"),
         ("¿Qué es el empirismo?", ["A. Conocimiento a través de la experiencia", "B. Conocimiento a través de la razón", "C. Conocimiento a través de la fe"], "A. Conocimiento a través de la experiencia"),
         ("¿Qué propone Descartes con 'Cogito, ergo sum'?", ["A. Pienso, luego existo", "B. Soy feliz, luego existo", "C. Vivo, luego pienso"], "A. Pienso, luego existo"),
+        ("¿Cual e")
     ],
 }
 
